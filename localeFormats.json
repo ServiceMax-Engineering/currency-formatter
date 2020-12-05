@@ -54,5 +54,12 @@
     "thousandsSeparator": ".",
     "decimalSeparator": ",",
     "decimalDigits": 2
+  },
+  "vi": {
+    "thousandsSeparator": ".",
+    "decimalSeparator": ",",
+    "symbolOnLeft": false,
+    "spaceBetweenAmountAndSymbol": true,
+    "decimalDigits": 0
   }
 }

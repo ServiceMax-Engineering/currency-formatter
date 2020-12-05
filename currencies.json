@@ -1353,7 +1353,7 @@
     "code": "VND",
     "symbol": "₫",
     "thousandsSeparator": ".",
-    "decimalSeparator": ".",
+    "decimalSeparator": ",",
     "symbolOnLeft": false,
     "spaceBetweenAmountAndSymbol": true,
     "decimalDigits": 0
